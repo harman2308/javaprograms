@@ -1,0 +1,6 @@
+public class hrmn.kaur {
+
+     public static void main(string[] args) {
+        // prints "hrmn, kaur" to the terminal window.
+        system.out.println("hrmn, world);
+       )
